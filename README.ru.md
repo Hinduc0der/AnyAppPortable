@@ -94,7 +94,8 @@ Start=WizTreePortable.exe      ; путь относительно папки п
 
 Допустимые категории (иначе программа уедет в «Другое»):
 `Accessibility`, `Development`, `Education`, `Games`, `Graphics & Pictures`,
-`Internet`, `Music & Video`, `Office`, `Security`, `Utilities`.
+`Internet`, `Music & Video`, `Office`, `Operating Systems`, `Security`,
+`Utilities`.
 
 Несколько пунктов от одной программы (как у LibreOffice) — через `Icons=7`,
 `Start1..Start7`, `Name1..`, `Description1..` и иконки `appicon1.ico`,

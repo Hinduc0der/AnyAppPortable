@@ -123,8 +123,15 @@ Start=WizTreePortable.exe
 real packages; both are accepted.
 
 Categories: `Accessibility`, `Development`, `Education`, `Games`,
-`Graphics & Pictures`, `Internet`, `Music & Video`, `Office`, `Security`,
-`Utilities`. Anything else lands in "Other".
+`Graphics & Pictures`, `Internet`, `Music & Video`, `Office`,
+`Operating Systems`, `Security`, `Utilities`. Anything else lands in "Other".
+
+The list comes from the platform's own locale files, where the menu labels are
+`APP_MENU_CATEGORY_*`; the menu writes "Graphics and Pictures" and "Music and
+Video" on screen, while `appinfo.ini` wants the ampersand form. The menu can
+also hold categories of your own (`APP_MENU_CATEGORY_ADD`, "Add a New
+Category"), but those are outside the format and will read as "Other"
+elsewhere.
 
 Several entries from one package (LibreOffice does this):
 

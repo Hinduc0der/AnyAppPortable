@@ -250,7 +250,8 @@ $LauncherTemplate = Join-Path $ToolRoot 'Template\PortableAppsLauncher.exe'
 
 $ValidCategories = @(
     'Accessibility', 'Development', 'Education', 'Games', 'Graphics & Pictures',
-    'Internet', 'Music & Video', 'Office', 'Security', 'Utilities'
+    'Internet', 'Music & Video', 'Office', 'Operating Systems', 'Security',
+    'Utilities'
 )
 
 # Names that are almost never the main executable

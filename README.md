@@ -141,7 +141,7 @@ do and changes nothing until you pass `-Apply`.
 
 Categories accepted by the menu: `Accessibility`, `Development`, `Education`,
 `Games`, `Graphics & Pictures`, `Internet`, `Music & Video`, `Office`,
-`Security`, `Utilities`.
+`Operating Systems`, `Security`, `Utilities`.
 
 ## What gets generated
 
