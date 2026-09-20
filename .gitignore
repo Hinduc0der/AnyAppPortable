@@ -1,0 +1,7 @@
+# Cached PortableApps.com Launcher stub, copied from a locally installed app.
+# Not ours to redistribute - the script fetches it on first run.
+Template/*.exe
+
+Thumbs.db
+desktop.ini
+*.log
