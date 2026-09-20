@@ -1,4 +1,4 @@
-# New-PortableApp
+# AnyAppPortable
 
 Turn any portable Windows program — a folder or a single `.exe` — into a
 [PortableApps.com](https://portableapps.com) menu entry.

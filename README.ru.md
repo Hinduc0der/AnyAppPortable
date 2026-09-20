@@ -1,4 +1,4 @@
-# New-PortableApp
+# AnyAppPortable
 
 Добавляет любую портативную программу — папку или одиночный `.exe` — в меню
 [PortableApps.com](https://portableapps.com).
